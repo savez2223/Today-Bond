@@ -1,7 +1,7 @@
-# Name Of The Site: MMB Mart
+# Name Of The Site: Today bond
 
 ## Features of the project:
-It's a small e-commerce website named MMB Mart.
+It's a small e-commerce website named Today bond.
 * User can see all the products and also product details,
 * In the home page user can see the new collections, the recent added 8 products data will be shown as new collections.
 * And as popular collections show the products which ratings is more than 4.6 or equal, top 8 data will be shown.
@@ -32,6 +32,6 @@ It's a small e-commerce website named MMB Mart.
 * Express JS
 * Mongoose , CORS, Dotenv, JWT, Multer 
 ### Here is the live link of the project:
-Click here: [MMB Mart](https://mmb-mart.web.app/)
+Click here: [Today bond](#)
 
 // added framer motion animatin and new collection page 
