@@ -31,7 +31,5 @@ It's a small e-commerce website named Today bond.
 * Node JS
 * Express JS
 * Mongoose , CORS, Dotenv, JWT, Multer 
-### Here is the live link of the project:
-Click here: [Today bond](#)
 
 // added framer motion animatin and new collection page 
